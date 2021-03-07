@@ -1,7 +1,7 @@
 # day-planner-hw
 
 See the deployed planner here!
-SGFOUWEHBTH:WEOBTMIOEWNSHMBTPO:IJESWMTB
+https://xxelegyxx.github.io/day-planner-hw/
 
 ## Usage
 ![Screenshot of Day Planner](https://github.com/xxelegyxx/day-planner-hw/blob/main/05-third-party-apis-homework-demo.gif)
